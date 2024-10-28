@@ -8,7 +8,7 @@ This Python script encodes and decodes Streisand-formatted URLs, converting them
 ## Features
 - Supports decoding Streisand URLs with base64 and `bplist` decoding.
 - Encodes JSON data back into Streisand URL format.
-- Displays decoded JSON output in green for better readability, similar to `jq`.
+- Displays decoded JSON output.
 
 ## Requirements
 - Python 3.6 or higher
